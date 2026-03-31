@@ -42,3 +42,7 @@ tools-chat/package-lock.json
 tools-chat/package.json
 tools-chat/tsconfig.json
 tools-chat/**/env.ts
+telegram-crawler/package-lock.json
+telegram-crawler/package.json
+telegram-crawler/tsconfig.json
+telegram-crawler/src/config/env.ts
