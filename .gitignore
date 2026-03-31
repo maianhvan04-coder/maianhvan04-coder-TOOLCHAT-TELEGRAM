@@ -28,3 +28,13 @@ pnpm-debug.log*
 
 .DS_Store
 Thumbs.db
+tools-chat/AGENTS.md
+tools-chat/CLAUDE.md
+tools-chat/README.md
+tools-chat/eslint.config.mjs
+tools-chat/next-env.d.ts
+tools-chat/next.config.ts
+tools-chat/package-lock.json
+tools-chat/package.json
+tools-chat/postcss.config.mjs
+tools-chat/tsconfig.json
