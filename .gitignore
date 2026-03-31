@@ -38,3 +38,7 @@ tools-chat/package-lock.json
 tools-chat/package.json
 tools-chat/postcss.config.mjs
 tools-chat/tsconfig.json
+tools-chat/package-lock.json
+tools-chat/package.json
+tools-chat/tsconfig.json
+tools-chat/**/env.ts
