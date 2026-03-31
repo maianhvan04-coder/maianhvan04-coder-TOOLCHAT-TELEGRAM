@@ -1,0 +1,45 @@
+<<<<<<< HEAD
+.env
+.next/
+node_modules/
+dist/
+build/
+*.log
+=======
+# env
+.env
+**/.env
+
+# node
+node_modules/
+**/node_modules/
+
+# next
+.next/
+**/.next/
+out/
+build/
+dist/
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# system
+.DS_Store
+Thumbs.db
+
+# test / coverage
+coverage/
+
+# telegram local data
+td_database/
+td_files/
+**/td_database/
+**/td_files/
+_td_database/
+_td_files/
+bridge-example/
+>>>>>>> 53f0e658176024caf8e77753f09bc0ea27a2baad
